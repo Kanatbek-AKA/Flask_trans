@@ -1,13 +1,3 @@
-## pylint: disable=missing-module-docstring
-## pylint: disable=missing-class-docstring
-## pylint: disable=missing-function-docstring
-## pylint: disable=missing-final-newline
-## pylint: disable=bad-indentation
-## pylint: disable=import-error
-## pylint: disable=invalid-name
-## pylint: disable=wrong-import-order
-## pylint: disable=trailing-whitespace
-
 # Import packages
 import json
 from ibm_watson import LanguageTranslatorV3
